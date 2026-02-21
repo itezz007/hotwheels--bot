@@ -13,7 +13,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-PINCODE = "500090"
+PINCODE = "342001"
 MAX_PRICE = 200
 # RAW SEARCH (No filters in URL, we will click them manually)
 SEARCH_URL = "https://www.firstcry.com/search?q=hot%20wheels" 
